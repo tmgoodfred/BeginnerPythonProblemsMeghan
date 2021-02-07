@@ -13,7 +13,6 @@ while checker != 0:
     except ValueError:
         print("Please enter a number")
 
-checker2 = 1
 sideLength = input("Please enter the length of one side: ")
 try:
     val = float(sideLength)
